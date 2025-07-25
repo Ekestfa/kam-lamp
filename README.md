@@ -1,2 +1,1 @@
-# kam-lamp
-`kam-lamp` serves as a ritual toolkit for modern prompt engineers. Each template functions like a luminous guide, transforming vague queries into oracle-like AI responses. Harness structured "knowledge lamps" to reveal hidden patterns, navigate complexity, and channel intuitive insight through systematic prompting.
+Inspired by the ancient Kam (Shaman) tradition of Turkic mythology — where wisdom meets prophecy — kam-lamp serves as a ritual toolkit for modern prompt engineers. Each template functions like a luminous guide, transforming vague queries into oracle-like AI responses. Harness structured "knowledge lamps" to reveal hidden patterns, navigate complexity, and channel intuitive insight through systematic prompting.
